@@ -1,6 +1,8 @@
-# Bootstrap Portfolio Website
+![image](https://github.com/user-attachments/assets/17380341-7248-4d84-993d-644da989cec9)# Bootstrap Portfolio Website
 
-![Website Screenshot](screenshot.png) <!-- (optional) replace with your screenshot if you add one -->
+![Screenshot 2025-05-25 150827](https://github.com/user-attachments/assets/315fdd26-022d-430e-a4cf-7896f891dc62)
+
+
 
 Welcome to my personal website built using **HTML**, **CSS**, and **Bootstrap**!  
 This project showcases my frontend development skills and serves as a learning project for responsive design using Bootstrap.
