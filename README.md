@@ -1,7 +1,6 @@
-![image](https://github.com/user-attachments/assets/17380341-7248-4d84-993d-644da989cec9)# Bootstrap Portfolio Website
+# Bootstrap Portfolio Website
 
 ![Screenshot 2025-05-25 150827](https://github.com/user-attachments/assets/315fdd26-022d-430e-a4cf-7896f891dc62)
-
 
 
 Welcome to my personal website built using **HTML**, **CSS**, and **Bootstrap**!  
